@@ -37,7 +37,7 @@ export const Footer = () => {
             Contact us
           </a>
           <p className="text-sm text-slate-600 dark:text-neutral-400">
-            &copy; 2023 Company Inc.
+            &copy; 2025 Invio
           </p>
         </div>
       </Container>
